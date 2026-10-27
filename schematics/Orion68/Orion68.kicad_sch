@@ -36,6 +36,48 @@
 		(uuid "79b083b4-3b1b-4b7b-931d-92a17869ebf5")
 	)
 	(sheet
+		(at 19.05 137.795)
+		(size 32.385 5.715)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "074a36e0-5c47-4060-89ea-58e8f39133fa")
+		(property "Sheetname" "pds1000_adapter"
+			(at 19.05 137.0834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pds1000_adapter.kicad_sch"
+			(at 19.05 144.0946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Orion68"
+				(path "/c7ab032b-c937-44de-ab42-c91dee57f0a8"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 19.304 103.378)
 		(size 32.258 4.572)
 		(exclude_from_sim no)

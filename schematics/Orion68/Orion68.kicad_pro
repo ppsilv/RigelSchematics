@@ -673,6 +673,10 @@
     [
       "34052055-7f61-41f5-bfd1-5ef7d5f89cb6",
       "Orion-ide_driver"
+    ],
+    [
+      "074a36e0-5c47-4060-89ea-58e8f39133fa",
+      "pds1000_adapter"
     ]
   ],
   "text_variables": {}
